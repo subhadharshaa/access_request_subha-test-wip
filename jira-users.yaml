@@ -2,10 +2,10 @@ App-Confluence-Users:
   Description: Used for SSO access to Confluence
   ManagedBy: ecohen@agero.com
   Add:
-    - 123@xyz.com
-
+  - 123@xyz.com
+  - newuser-confluence@xyz.com
 App-Jira-Users:
   Description: Used for SSO access to Confluence
   ManagedBy: ecohen@agero.com
   Add:
-    - 123@xyz.com
+  - 123@xyz.com
